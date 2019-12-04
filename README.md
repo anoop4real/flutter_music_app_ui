@@ -1,6 +1,7 @@
 # flutter_music_app
 
-A new Flutter application.
+A sample app where I tried to create a UI for music app from one of the design I found in the web.
+
 
 ## Getting Started
 
